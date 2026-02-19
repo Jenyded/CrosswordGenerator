@@ -1,0 +1,23 @@
+{
+    "name": "AppBootstrap",
+    "rootNamespace": "",
+    "references": [
+        "UniTask",
+        "Unity.TextMeshPro",
+        "FancyScrollView",
+        "FancyScrollZenject",
+        "Zenject",
+        "DotweenModules",
+        "AppFeatures",
+        "AppInfrastructure"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

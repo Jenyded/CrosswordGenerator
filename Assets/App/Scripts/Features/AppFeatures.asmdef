@@ -1,0 +1,22 @@
+{
+    "name": "AppFeatures",
+    "rootNamespace": "",
+    "references": [
+        "UniTask",
+        "Unity.TextMeshPro",
+        "FancyScrollView",
+        "FancyScrollZenject",
+        "Zenject",
+        "DotweenModules",
+        "AppInfrastructure"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,7 @@
+{
+    "id": "level_04",
+    "size": {"x": 10, "y": 10},
+    "words": [
+        {"word": "пароход", "gridIndex": 0, "isVertical": false}
+    ]
+}

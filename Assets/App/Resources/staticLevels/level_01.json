@@ -1,0 +1,9 @@
+{
+    "id": "level_01",
+    "size": {"x": 4, "y": 3},
+    "words": [
+        {"word": "КОТ", "gridIndex": 0, "isVertical": false},
+        {"word": "КИТ", "gridIndex": 0, "isVertical": true},
+        {"word": "ТОРТ", "gridIndex": 8, "isVertical": false}
+    ]
+}

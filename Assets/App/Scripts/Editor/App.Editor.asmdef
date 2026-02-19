@@ -1,0 +1,21 @@
+{
+    "name": "App.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d0cb2aeff273b0f4b9c4dbb61d123072",
+        "GUID:999b36067967f9149ac7a82c58732151",
+        "GUID:3a587127d2566514fbea06d6e11a32e8",
+        "GUID:4b73a53df8b0b574a9299157080c9c5e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,8 @@
+{
+    "id": "level_03",
+    "size": {"x": 4, "y": 4},
+    "words": [
+        {"word": "МАМА", "gridIndex": 4, "isVertical": false},
+        {"word": "ПАПА", "gridIndex": 1, "isVertical": true}
+    ]
+}
